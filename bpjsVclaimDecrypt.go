@@ -8,7 +8,7 @@ import (
 	"crypto/sha256"
 	"encoding/base64"
 
-	pkcs7 "github.com/regalia-co-id/go-pkcs7"
+	pkcs7 "github.com/regalia-co-id/pkcs7-go"
 	lzstring "github.com/regalia-co-id/lz-string-go"
 )
 
